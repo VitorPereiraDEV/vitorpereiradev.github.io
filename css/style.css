@@ -74,6 +74,12 @@ header .navbar a:hover{
     color: var(--orange);
 }
 
+header .follow a{
+    font-size: 2.5rem;
+    color: var(--orange);
+    margin: 0 .7rem;
+}
+
 section{
     padding: 2rem 9%;
     min-height: 100vh;
